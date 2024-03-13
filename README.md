@@ -38,6 +38,7 @@
  ![Samples](samples.jpeg)
  
 ## Future changes/work
+* Training is not yet stable gradients vanishing problem.
 * Cleaning the code to make it more readable and efficient
 * Trying softmax by quantization of pixel
 * Scaling the method to generate color image (We have done it on GPT)
